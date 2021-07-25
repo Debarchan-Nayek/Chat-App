@@ -1,0 +1,7 @@
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 60%;
+  }
+  
